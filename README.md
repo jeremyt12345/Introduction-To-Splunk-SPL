@@ -31,3 +31,11 @@ I searched through initally the number of hits when I simply changed the event i
 <img width="1233" height="626" alt="image" src="https://github.com/user-attachments/assets/5f6a8ef6-773b-4728-a428-74f7e44f91d3" />
 
 
+Now to Question 3
+
+
+Q3 "Navigate to http://[Target IP]:8000, open the "Search & Reporting" application, and run a SPL search against all 4624 events. Identify the accounts whose total login activity occurred within a time range of less than 10 minutes. As your answer, enter the name of the account having highest login attempts."
+
+
+
+
