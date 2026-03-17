@@ -36,6 +36,11 @@ Now to Question 3
 
 Q3 "Navigate to http://[Target IP]:8000, open the "Search & Reporting" application, and run a SPL search against all 4624 events. Identify the accounts whose total login activity occurred within a time range of less than 10 minutes. As your answer, enter the name of the account having highest login attempts."
 
+This third answer I got pretty frustrated with and used Claude AI to help with to be honest. I was searching through Google for a while to understand or atleast see examples of how to use "range()" to help find the answer but couldnt get it.
+
+What I learned: Splunk uses time in seconds!!!
+
+<img width="1502" height="548" alt="image" src="https://github.com/user-attachments/assets/7314b33d-c687-4e7d-8509-d1f05d175dd0" />
 
 
 
